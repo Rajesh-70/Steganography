@@ -53,3 +53,9 @@ Image-Steganography/
 
 ```bash
 gcc main.c encode.c decode.c -o stego
+
+## How to Run
+For Encoding
+./stego -e input.bmp secret.txt output.bmp
+For Decoding
+./stego -d output.bmp
