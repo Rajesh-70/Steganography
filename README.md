@@ -28,6 +28,7 @@ The project demonstrates binary file handling, bitwise operations, and basic inf
 ---
 
 ## Project Structure
+```text
 Image-Steganography/
 │
 ├── main.c
